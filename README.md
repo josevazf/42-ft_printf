@@ -1,5 +1,5 @@
 # 42 Common Core / ft_printf
-This project is about a partial recoding of the standard printf() function while also learning about variadic functions in C.
+This project is about a partial recoding of the standard printf() function while learning about variadic functions in C.
 ###
 Handles only the following conversions:
 - `%c` - print a single character
